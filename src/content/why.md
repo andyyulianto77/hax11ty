@@ -1,5 +1,5 @@
 ---
-title: Why this is better
+title: Kenapa Ini bagus
 order: 2
 ---
 <p><ul>
