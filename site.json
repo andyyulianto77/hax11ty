@@ -1,5 +1,5 @@
 {
-  "id": "#0a6bf2b1-6a87-5aa0-1bd8-6ef075afa9a6",
+  "id": "#2d6e9029-e73a-9188-ab4b-d5e2ad85cdfa",
   "title": "hax11ty",
   "author": "andyyulianto77",
   "description": "project documentation",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "hax11ty",
-      "created": 1725941161388,
-      "updated": 1725941161388,
+      "created": 1727131019560,
+      "updated": 1727131019560,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "HAXTheWeb",
       "parent": "--content-examples-index-md",
       "metadata": {
-        "created": 1725941143,
-        "updated": 1725941143,
+        "created": 1727131001,
+        "updated": 1727131001,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,105 +82,6 @@
       }
     },
     {
-      "id": "--content-examples-Community-md",
-      "indent": 0,
-      "location": "./pages/examples/Community.md",
-      "slug": "content/examples/Community/",
-      "order": 1,
-      "title": "Community examples",
-      "description": "Community examples",
-      "parent": "--content-examples-index-md",
-      "metadata": {
-        "created": 1725941143,
-        "updated": 1725941143,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "eleventy": {
-          "version": "1.0.1",
-          "generator": "Eleventy v1.0.1",
-          "env": {
-            "config": "/home/runner/work/hax11ty/hax11ty/app/.eleventy.js",
-            "root": "/home/runner/work/hax11ty/hax11ty/app",
-            "source": "cli"
-          }
-        },
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Community examples",
-        "order": 1
-      }
-    },
-    {
-      "id": "--content-examples-index-md",
-      "indent": 0,
-      "location": "./pages/examples/index.md",
-      "slug": "content/examples/",
-      "order": 1,
-      "title": "Examples",
-      "description": "Examples",
-      "parent": null,
-      "metadata": {
-        "created": 1725941143,
-        "updated": 1725941143,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "eleventy": {
-          "version": "1.0.1",
-          "generator": "Eleventy v1.0.1",
-          "env": {
-            "config": "/home/runner/work/hax11ty/hax11ty/app/.eleventy.js",
-            "root": "/home/runner/work/hax11ty/hax11ty/app",
-            "source": "cli"
-          }
-        },
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Examples",
-        "order": 1
-      }
-    },
-    {
-      "id": "--content-install-md",
-      "indent": 0,
-      "location": "./pages/install.md",
-      "slug": "content/install/",
-      "order": 1,
-      "title": "Installation",
-      "description": "Installation",
-      "parent": null,
-      "metadata": {
-        "created": 1725941143,
-        "updated": 1725941143,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "eleventy": {
-          "version": "1.0.1",
-          "generator": "Eleventy v1.0.1",
-          "env": {
-            "config": "/home/runner/work/hax11ty/hax11ty/app/.eleventy.js",
-            "root": "/home/runner/work/hax11ty/hax11ty/app",
-            "source": "cli"
-          }
-        },
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Installation",
-        "order": 1
-      }
-    },
-    {
       "id": "--content-about-md",
       "indent": 0,
       "location": "./pages/about.md",
@@ -190,8 +91,8 @@
       "description": "About",
       "parent": null,
       "metadata": {
-        "created": 1725941143,
-        "updated": 1725941143,
+        "created": 1727131001,
+        "updated": 1727131001,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -214,17 +115,17 @@
       }
     },
     {
-      "id": "--content-why-md",
+      "id": "--content-install-md",
       "indent": 0,
-      "location": "./pages/why.md",
-      "slug": "content/why/",
-      "order": 2,
-      "title": "Why this is better",
-      "description": "Why this is better",
+      "location": "./pages/install.md",
+      "slug": "content/install/",
+      "order": 1,
+      "title": "Installation",
+      "description": "Installation",
       "parent": null,
       "metadata": {
-        "created": 1725941143,
-        "updated": 1725941143,
+        "created": 1727131001,
+        "updated": 1727131001,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -242,7 +143,106 @@
           "content"
         ],
         "layout": "content.liquid",
-        "title": "Why this is better",
+        "title": "Installation",
+        "order": 1
+      }
+    },
+    {
+      "id": "--content-examples-index-md",
+      "indent": 0,
+      "location": "./pages/examples/index.md",
+      "slug": "content/examples/",
+      "order": 1,
+      "title": "Examples",
+      "description": "Examples",
+      "parent": null,
+      "metadata": {
+        "created": 1727131001,
+        "updated": 1727131001,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "eleventy": {
+          "version": "1.0.1",
+          "generator": "Eleventy v1.0.1",
+          "env": {
+            "config": "/home/runner/work/hax11ty/hax11ty/app/.eleventy.js",
+            "root": "/home/runner/work/hax11ty/hax11ty/app",
+            "source": "cli"
+          }
+        },
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Examples",
+        "order": 1
+      }
+    },
+    {
+      "id": "--content-examples-Community-md",
+      "indent": 0,
+      "location": "./pages/examples/Community.md",
+      "slug": "content/examples/Community/",
+      "order": 1,
+      "title": "Community examples",
+      "description": "Community examples",
+      "parent": "--content-examples-index-md",
+      "metadata": {
+        "created": 1727131001,
+        "updated": 1727131001,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "eleventy": {
+          "version": "1.0.1",
+          "generator": "Eleventy v1.0.1",
+          "env": {
+            "config": "/home/runner/work/hax11ty/hax11ty/app/.eleventy.js",
+            "root": "/home/runner/work/hax11ty/hax11ty/app",
+            "source": "cli"
+          }
+        },
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Community examples",
+        "order": 1
+      }
+    },
+    {
+      "id": "--content-why-md",
+      "indent": 0,
+      "location": "./pages/why.md",
+      "slug": "content/why/",
+      "order": 2,
+      "title": "Kenapa Ini bagus",
+      "description": "Kenapa Ini bagus",
+      "parent": null,
+      "metadata": {
+        "created": 1727131001,
+        "updated": 1727131001,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "eleventy": {
+          "version": "1.0.1",
+          "generator": "Eleventy v1.0.1",
+          "env": {
+            "config": "/home/runner/work/hax11ty/hax11ty/app/.eleventy.js",
+            "root": "/home/runner/work/hax11ty/hax11ty/app",
+            "source": "cli"
+          }
+        },
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Kenapa Ini bagus",
         "order": 2
       }
     },
@@ -256,8 +256,8 @@
       "description": "Roadmap",
       "parent": null,
       "metadata": {
-        "created": 1725941143,
-        "updated": 1725941143,
+        "created": 1727131001,
+        "updated": 1727131001,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -289,8 +289,8 @@
       "description": "Get involved!",
       "parent": null,
       "metadata": {
-        "created": 1725941143,
-        "updated": 1725941143,
+        "created": 1727131001,
+        "updated": 1727131001,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
