@@ -1,13 +1,5 @@
 [
   {
-   "id":"About",
-   "title":"About",
-   "created": "",
-   "location":"/hax11ty/content/about/",
-   "description":"HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:  User edits via HAX (future) or modifies files locally  hax11ty script watches for changes and rebuilds files w/ 11ty, refreshing the screen  this is compiled to a valid HAXcms data package to be used either completely static with a CDN or locally in HAXcms PHP version",
-   "text":"HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:  User edits via HAX (future) or modifies files locally  hax11ty script watches for changes and rebuilds files w/ 11ty, refreshing the screen  this is compiled to a valid HAXcms data package to be used either completely static with a CDN or locally in HAXcms PHP version"
-  },
-  {
    "id":"Community examples",
    "title":"Community examples",
    "created": "",
@@ -62,5 +54,13 @@
    "location":"/hax11ty/content/roadmap/",
    "description":"The goal of HAX11ty is to combine the best of HAX / HAXcms with the best of 11ty. To that end we seek to produce the following workflow (things done first, followed by things needed):Working / exists currently    11ty static site publishing workflow    Abstract content files / settings / structure of 11ty away as much as possible so user deals only with content files    CI / workflow / gh-actions routine automatically setup    Interface with the HAXcms data structure / automatically generate site.json filesThings neededIssue queue for hax11ty",
    "text":"The goal of HAX11ty is to combine the best of HAX / HAXcms with the best of 11ty. To that end we seek to produce the following workflow (things done first, followed by things needed):Working / exists currently    11ty static site publishing workflow    Abstract content files / settings / structure of 11ty away as much as possible so user deals only with content files    CI / workflow / gh-actions routine automatically setup    Interface with the HAXcms data structure / automatically generate site.json filesThings neededIssue queue for hax11ty"
+  },
+  {
+   "id":"Tentang Saya",
+   "title":"Tentang Saya",
+   "created": "",
+   "location":"/hax11ty/content/about/",
+   "description":"HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:  User edits via HAX (future) or modifies files locally  hax11ty script watches for changes and rebuilds files w/ 11ty, refreshing the screen  this is compiled to a valid HAXcms data package to be used either completely static with a CDN or locally in HAXcms PHP version",
+   "text":"HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:  User edits via HAX (future) or modifies files locally  hax11ty script watches for changes and rebuilds files w/ 11ty, refreshing the screen  this is compiled to a valid HAXcms data package to be used either completely static with a CDN or locally in HAXcms PHP version"
   }
 ]
