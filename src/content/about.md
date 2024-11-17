@@ -1,5 +1,5 @@
 ---
-title: About
+title: Tentang Aku
 order: 1
 ---
 <p>HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:
