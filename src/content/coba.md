@@ -1,6 +1,6 @@
 ---
 title: Tentang Aku
-order: 1
+order: 8
 ---
 <p>Campuran antara HAX and 11ty. It uses these technologies in the following way:
 <ul>
