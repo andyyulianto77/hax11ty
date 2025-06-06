@@ -1,0 +1,349 @@
+{
+  "id": "#857f8d11-2ef8-e601-ad3d-f2d6f326274e",
+  "title": "hax11ty",
+  "author": "andyyulianto77",
+  "description": "project documentation",
+  "license": "by-sa",
+  "metadata": {
+    "author": {
+      "image": "https://github.com/andyyulianto77.png",
+      "name": "andyyulianto77",
+      "email": "andyyulianto77@guru.sma.belajar.id",
+      "socialLink": "https://twitter.com/"
+    },
+    "site": {
+      "name": "hax11ty",
+      "created": 1749218743184,
+      "updated": 1749218743184,
+      "git": {
+        "autoPush": false,
+        "branch": "master",
+        "staticBranch": "gh-pages",
+        "vendor": "github",
+        "publicRepoUrl": "https://github.com/andyyulianto77/hax11ty/blob/master/src/",
+        "url": "git@github.com:andyyulianto77/hax11ty.git"
+      },
+      "version": "1.2.9-11ty",
+      "domain": "https://localhost:8000",
+      "logo": "assets/images/photo-1497493292307-31c376b6e479.jpeg",
+      "static": {
+        "cdn": "build",
+        "offline": false
+      },
+      "settings": {
+        "pathauto": false,
+        "publishPagesOn": false,
+        "forceUpgrade": true,
+        "sw": false
+      }
+    },
+    "theme": {
+      "element": "clean-two",
+      "variables": {
+        "image": "assets/banner.jpg",
+        "hexCode": "#55FF55",
+        "cssVariable": "--simple-colors-default-theme-blue-7",
+        "logo": "lrn:network"
+      }
+    }
+  },
+  "items": [
+    {
+      "id": "--content-install-md",
+      "indent": 0,
+      "location": "./pages/install.md",
+      "slug": "content/install/",
+      "order": 1,
+      "title": "Installation",
+      "description": "Installation",
+      "parent": null,
+      "metadata": {
+        "created": 1749218723,
+        "updated": 1749218723,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "eleventy": {
+          "version": "1.0.1",
+          "generator": "Eleventy v1.0.1",
+          "env": {
+            "config": "/home/runner/work/hax11ty/hax11ty/app/.eleventy.js",
+            "root": "/home/runner/work/hax11ty/hax11ty/app",
+            "source": "cli"
+          }
+        },
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Installation",
+        "order": 1
+      }
+    },
+    {
+      "id": "--content-examples-md",
+      "indent": 0,
+      "location": "./pages/examples.md",
+      "slug": "content/examples/",
+      "order": 1,
+      "title": "Examples",
+      "description": "Examples",
+      "parent": null,
+      "metadata": {
+        "created": 1749218723,
+        "updated": 1749218723,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "eleventy": {
+          "version": "1.0.1",
+          "generator": "Eleventy v1.0.1",
+          "env": {
+            "config": "/home/runner/work/hax11ty/hax11ty/app/.eleventy.js",
+            "root": "/home/runner/work/hax11ty/hax11ty/app",
+            "source": "cli"
+          }
+        },
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Examples",
+        "order": 1
+      }
+    },
+    {
+      "id": "--content-about-md",
+      "indent": 0,
+      "location": "./pages/about.md",
+      "slug": "content/about/",
+      "order": 1,
+      "title": "About",
+      "description": "About",
+      "parent": null,
+      "metadata": {
+        "created": 1749218723,
+        "updated": 1749218723,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "eleventy": {
+          "version": "1.0.1",
+          "generator": "Eleventy v1.0.1",
+          "env": {
+            "config": "/home/runner/work/hax11ty/hax11ty/app/.eleventy.js",
+            "root": "/home/runner/work/hax11ty/hax11ty/app",
+            "source": "cli"
+          }
+        },
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "About",
+        "order": 1
+      }
+    },
+    {
+      "id": "--content-why-md",
+      "indent": 0,
+      "location": "./pages/why.md",
+      "slug": "content/why/",
+      "order": 2,
+      "title": "Kenapa ini menarik",
+      "description": "Kenapa ini menarik",
+      "parent": null,
+      "metadata": {
+        "created": 1749218723,
+        "updated": 1749218723,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "eleventy": {
+          "version": "1.0.1",
+          "generator": "Eleventy v1.0.1",
+          "env": {
+            "config": "/home/runner/work/hax11ty/hax11ty/app/.eleventy.js",
+            "root": "/home/runner/work/hax11ty/hax11ty/app",
+            "source": "cli"
+          }
+        },
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Kenapa ini menarik",
+        "order": 2
+      }
+    },
+    {
+      "id": "--content-roadmap-md",
+      "indent": 0,
+      "location": "./pages/roadmap.md",
+      "slug": "content/roadmap/",
+      "order": 3,
+      "title": "Roadmap",
+      "description": "Roadmap",
+      "parent": null,
+      "metadata": {
+        "created": 1749218723,
+        "updated": 1749218723,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "eleventy": {
+          "version": "1.0.1",
+          "generator": "Eleventy v1.0.1",
+          "env": {
+            "config": "/home/runner/work/hax11ty/hax11ty/app/.eleventy.js",
+            "root": "/home/runner/work/hax11ty/hax11ty/app",
+            "source": "cli"
+          }
+        },
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Roadmap",
+        "order": 3
+      }
+    },
+    {
+      "id": "--content-contact-md",
+      "indent": 0,
+      "location": "./pages/contact.md",
+      "slug": "content/contact/",
+      "order": 4,
+      "title": "Get involved!",
+      "description": "Get involved!",
+      "parent": null,
+      "metadata": {
+        "created": 1749218723,
+        "updated": 1749218723,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "eleventy": {
+          "version": "1.0.1",
+          "generator": "Eleventy v1.0.1",
+          "env": {
+            "config": "/home/runner/work/hax11ty/hax11ty/app/.eleventy.js",
+            "root": "/home/runner/work/hax11ty/hax11ty/app",
+            "source": "cli"
+          }
+        },
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Get involved!",
+        "order": 4
+      }
+    },
+    {
+      "id": "--content-coba-md",
+      "indent": 0,
+      "location": "./pages/coba.md",
+      "slug": "content/coba/",
+      "order": 8,
+      "title": "Tentang Aku",
+      "description": "Tentang Aku",
+      "parent": null,
+      "metadata": {
+        "created": 1749218723,
+        "updated": 1749218723,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "eleventy": {
+          "version": "1.0.1",
+          "generator": "Eleventy v1.0.1",
+          "env": {
+            "config": "/home/runner/work/hax11ty/hax11ty/app/.eleventy.js",
+            "root": "/home/runner/work/hax11ty/hax11ty/app",
+            "source": "cli"
+          }
+        },
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Tentang Aku",
+        "order": 8
+      }
+    },
+    {
+      "id": "--content-coba2-md",
+      "indent": 0,
+      "location": "./pages/coba2.md",
+      "slug": "content/coba2/",
+      "order": 9,
+      "title": "Tentang Dia",
+      "description": "Tentang Dia",
+      "parent": null,
+      "metadata": {
+        "created": 1749218723,
+        "updated": 1749218723,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "eleventy": {
+          "version": "1.0.1",
+          "generator": "Eleventy v1.0.1",
+          "env": {
+            "config": "/home/runner/work/hax11ty/hax11ty/app/.eleventy.js",
+            "root": "/home/runner/work/hax11ty/hax11ty/app",
+            "source": "cli"
+          }
+        },
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Tentang Dia",
+        "order": 9
+      }
+    },
+    {
+      "id": "--content-coba2-copy-md",
+      "indent": 0,
+      "location": "./pages/coba2-copy.md",
+      "slug": "content/coba2-copy/",
+      "order": 10,
+      "title": "Tentang Dia Lagi",
+      "description": "Tentang Dia Lagi",
+      "parent": null,
+      "metadata": {
+        "created": 1749218723,
+        "updated": 1749218723,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "eleventy": {
+          "version": "1.0.1",
+          "generator": "Eleventy v1.0.1",
+          "env": {
+            "config": "/home/runner/work/hax11ty/hax11ty/app/.eleventy.js",
+            "root": "/home/runner/work/hax11ty/hax11ty/app",
+            "source": "cli"
+          }
+        },
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Tentang Dia Lagi",
+        "order": 10
+      }
+    }
+  ]
+}
