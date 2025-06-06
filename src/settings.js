@@ -96,7 +96,7 @@ module.exports = () => {
         // icon name if the theme uses one
         themeLogo: "lrn:network",
         // general theme color
-        themeColor: "green",
+        themeColor: "blue",
         // CC license, see https://creativecommons.org/licenses/ for a list
         siteLicense: "by-sa",
         // folder / machine name to represent your site
