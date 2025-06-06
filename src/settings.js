@@ -16,7 +16,7 @@ module.exports = () => {
         gitProject = parts[1];
     }
     // author name will be set by the github publishing agent based on who kicks it off
-    var authorName = "andy77";
+    var authorName = "andyyulianto77";
     var siteAuthorImage = "files/headshot511743.1799999904.jpg";
     // person kicking off the job gets author name by default
     if (process.env.GITHUB_ACTOR) {
