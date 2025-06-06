@@ -78,7 +78,7 @@ module.exports = () => {
         // change these settings
 
         // email address, optional
-        siteAuthorEmail: "",
+        siteAuthorEmail: "andyyulianto77@guru.sma.belajar.id",
         // optional twitter handle
         twitterName: "",
         // short description of the site for SEO
